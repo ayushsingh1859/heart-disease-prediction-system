@@ -22,8 +22,6 @@ pip install -r requirements.txt <br>
 
 3️⃣ Run the notebook: Open heart_disease_prediction.ipynb in Colab/Jupyter. <br>
 
-4️⃣ Open in browser: http://127.0.0.1:5000/ <br>
-
 📊 Dataset <br>
 Source: [Kaggle](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset) <br>
 13 features <br> (age,
