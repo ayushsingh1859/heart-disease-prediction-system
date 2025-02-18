@@ -47,5 +47,5 @@ Recall: 80% <br>
 Contributions are welcome! Feel free to submit a Pull Request. <br>
 
 📜 License <br>
-This project is licensed under the MIT License. <br>
+This project is licensed under the MIT License.. <br>
 
