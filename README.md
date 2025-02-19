@@ -10,7 +10,7 @@ A machine learning model that predicts heart disease risk using medical data. Bu
 
 ## 🛠 Tech Stack  
 - Python  
-- Pandas, NumPy  
+- Pandas, NumPy.  
 - Scikit-Learn  
     
 ## 🚀 Installation & Usage  
