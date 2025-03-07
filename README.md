@@ -24,7 +24,7 @@ pip install -r requirements.txt <br>
 
 📊 Dataset <br>
 Source: [Kaggle](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset) <br>
-13 features <br> (age,
+13 features <br> <br>(age,
 sex,
 chest pain type (4 values),
 resting blood pressure,
